@@ -1,0 +1,33 @@
+Salesforce takes aim at e-commerce with $2.8 billion Demandware buy
+
+Technology | Wed Jun 1, 2016 5:26pm EDT
+
+Cloud-based software maker Salesforce.com Inc (CRM.N) said on Wednesday it would buy Demandware Inc (DWRE.N), whose software is used by businesses to run e-commerce websites, for about $2.8 billion.
+
+The deal would help Salesforce open a new front as it seeks to take more market share from traditional software providers such as Oracle Corp (ORCL.N) and SAP AG (SAPG.DE), both of which already offer cloud-based e-commerce services.
+
+The e-commerce market has been growing at a blistering pace as retailers expand their online presence, boosting demand for software that helps manage functions such as payment processing and inventory management.
+
+Salesforce's cash offer of $75.00 per share represents a 56.3 percent premium to Demandware's Tuesday closing.
+
+The lofty premium indicates that multiple bidders were likely at the table for Demandware, Stifel Nicolaus & Co analyst Thomas Roderick said, naming Adobe Systems Inc ABDE.O and Oracle as the other possible contenders.
+
+"We're not winning every deal, this is just the deal that we were actually able to get done," Salesforce Chief Executive Marc Benioff told CNBC in an interview.
+
+Demandware's shares, which have fallen about 21 percent in the past year, rose 55.9 percent to $74.81 on Wednesday. Shares of Salesforce, considered a barometer for the cloud-computing industry, edged down 0.3 percent.
+
+Demandware, whose customers include Lands' End Inc (LE.O), L'Oreal SA (OREP.PA) and Marks and Spencer Group Plc (MKS.L), has reported sales growth of more than 30 percent for the last 10 quarters.
+
+"I think Salesforce has effectively already won the CRM war - they need to stay out front in terms of innovation and they do need to have the broadest, deepest portfolio ... this was a blind spot for them," Wedbush Securities analyst Steve Koenig said.
+
+Global spending on digital commerce platforms is expected to grow over 14 percent annually to about $8.5 billion by 2020, Salesforce said, citing research firm Gartner.
+
+The deal, slated to close in Salesforce's second quarter ending July, is expected to increase the company's 2017 revenue by about $100 million-$120 million.
+
+Salesforce had forecast fiscal 2017 revenue of $8.16 billion-$8.20 billion in May.
+
+However, Salesforce said it now expected an adjusted profit of 93 cents-95 cents per share for the full year, down from its previous forecast of $1-$1.02.
+
+BofA Merrill Lynch is Salesforce's financial adviser for the deal, while Goldman Sachs is advising Demandware.
+
+(Reporting by Anya George Tharakan and Kshitiz Goliya in Bengaluru; Editing by Saumyadeb Chakrabarty and Shounak Dasgupta)
